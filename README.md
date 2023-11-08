@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christina</h1>
-<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
